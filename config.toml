@@ -24,6 +24,5 @@ formspree = true
   Description = "Reflexions, case studies and DIY"
   Avatar = "img/avatar.jpg"
   SelfIntro = "Open source and education"
-  Email = "no"
 
   TwitterID = "arduino"
