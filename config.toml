@@ -1,5 +1,5 @@
 baseurl = "https://hopeful-noether-f3871b.netlify.com/"
-title = "yii.im"
+title = "mirgalobal - Open source and education"
 theme = "vec"
 languageCode = "en-us"
 paginate = 10
@@ -22,14 +22,10 @@ googleAnalytics = ""
     url = "/faq"
 
 [params]
-  Keywords = "key, 关键字, キーワード"
-  Description = "There are some words to describe your site"
+  Keywords = "robotics, open source, education"
+  Description = "Reflexions, case studies and DIY"
   Avatar = "img/avatar.jpg"
-  SelfIntro = "Just a worm, seek for true, live in shadow, no more..."
-  Email = "yiichou@gmail.com"
+  SelfIntro = "Open source and education"
+  Email = "no"
 
-  GithubID = "Your Github ID"
-  TwitterID = "Your Twitter ID"
-  FacebookID = "Your Facebook ID"
-  LinkedInID = "Your LinkedIn ID"
-  GoogleplusID = "Your Googleplus ID"
+  TwitterID = "arduino"
