@@ -4,7 +4,7 @@ theme = "vec"
 languageCode = "en-us"
 paginate = 10
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "UA-28439668-1"
 
 [menu]
   # Shown in the side menu.
@@ -16,10 +16,7 @@ googleAnalytics = ""
     name = "contact"
     weight = 1
     url = "/contact"
-  [[menu.main]]
-    name = "faq"
-    weight = 2
-    url = "/faq"
+
 
 [params]
   Keywords = "robotics, open source, education"
