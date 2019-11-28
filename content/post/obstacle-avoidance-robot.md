@@ -16,3 +16,13 @@ Wifi with IoT **ESP8622**
 line follower: POLOLU-961 QTR-8RC Reflectance Sensor Arraylanced
 
 balanced robot: MpPU6050
+
+more
+
+robot PLEN, PLEN2
+
+[https://farmbot.io/](https://farmbot.io/ "https://farmbot.io/")
+
+[http://ardupilot.org/ardupilot/index.html](http://ardupilot.org/ardupilot/index.html "http://ardupilot.org/ardupilot/index.html")
+
+blueROV
