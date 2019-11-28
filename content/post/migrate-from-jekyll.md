@@ -1,6 +1,6 @@
 +++
 comments = true
-date = ""
+date = 2019-11-28T00:00:00Z
 title = "Obstacle avoidance robot"
 toc = true
 
