@@ -1,17 +1,18 @@
 +++
 comments = true
 date = 2019-11-28T00:00:00Z
-draft = true
-title = "Obstacle avoidance robot"
+title = "Arm robot"
 toc = true
 
 +++
-## Obstacle avoidance robot
+## MeArm
 
-**Motor shield**
+World clock - Leds strip **WS2855**
 
-**Dc motors**
+Add-on: **Bluetooth** HC-05 and app android
 
-**Avoidance** sensor
+Wifi with IoT **ESP8622**
 
-Ref: cs.columbia
+line follower: POLOLU-961 QTR-8RC Reflectance Sensor Arraylanced
+
+balanced robot: MpPU6050
