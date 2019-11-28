@@ -1,5 +1,5 @@
 baseurl = "https://hopeful-noether-f3871b.netlify.com/"
-title = "mirgalobal - Open source and education"
+title = "Open source and education"
 theme = "vec"
 languageCode = "en-us"
 paginate = 10
