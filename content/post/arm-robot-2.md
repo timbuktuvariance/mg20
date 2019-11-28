@@ -1,29 +1,32 @@
 +++
 comments = true
 date = 2019-11-28T00:00:00Z
-draft = true
-title = "Arm robot"
+title = "IoT"
 toc = true
 
 +++
-## MeArm
+# [IoT](http://miraglobal.com/post/iot/)
 
-World clock - Leds strip **WS2855**
+May 31, 2018
 
-Add-on: **Bluetooth** HC-05 and app android
+Web server - with temperature readings web page
 
-Wifi with IoT **ESP8622**
+Install raspbian with etcher - enable ssh
 
-line follower: POLOLU-961 QTR-8RC Reflectance Sensor Arraylanced
+App design cloud[http://www.thingstud.io/](http://www.thingstud.io/ "http://www.thingstud.io/")
 
-balanced robot: MpPU6050
+[https://thingspeak.com/](https://thingspeak.com/ "https://thingspeak.com/")
 
-more
+[https://www.hackster.io/Tiobel/esp32-solar-weather-station-bf9c23](https://www.hackster.io/Tiobel/esp32-solar-weather-station-bf9c23 "https://www.hackster.io/Tiobel/esp32-solar-weather-station-bf9c23")
 
-robot PLEN, PLEN2
+Control pi over internet without opening ports
 
-[https://farmbot.io/](https://farmbot.io/ "https://farmbot.io/")
+[https://www.dataplicity.com](https://www.dataplicity.com "https://www.dataplicity.com")
 
-[http://ardupilot.org/ardupilot/index.html](http://ardupilot.org/ardupilot/index.html "http://ardupilot.org/ardupilot/index.html")
+other cloud services:
 
-blueROV
+[https://blynk.io/](https://blynk.io/ "https://blynk.io/")
+
+[https://dweet.io/](https://dweet.io/ "https://dweet.io/")
+
+[https://lenuage.io/](https://lenuage.io/ "https://lenuage.io/")
